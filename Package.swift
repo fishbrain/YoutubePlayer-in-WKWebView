@@ -23,6 +23,6 @@ let package = Package(
             path: ".",
             exclude: [],
             sources: ["WKYTPlayerView"],
-            publicHeadersPath: "TTTAttributedLabel"),
+            publicHeadersPath: "WKYTPlayerView"),
     ]
 )
